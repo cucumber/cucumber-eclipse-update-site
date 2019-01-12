@@ -4,9 +4,18 @@ This update site is automatically updated with the latest release of the Cucumbe
 
 They are 3 ways to install the Cucumber eclipse plugin
 
+ * eclipse marketplace - recommended
  * offline installation
- * eclipse marketplace
  * this eclipse update site
+
+## Eclipse marketplace - recommended
+
+* By drag and drop of this button in your running Eclipse workspace.
+
+ [![Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3759385 "Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client")
+
+* Directly from the Eclipse marketplace, search [`Cucumber Eclipse Plugin`](https://marketplace.eclipse.org/content/cucumber-eclipse-plugin).
+
 
 ## From this update site
 
@@ -23,14 +32,6 @@ For more information, see [Eclipse help](https://help.eclipse.org/kepler/index.j
 ## Offline installation
 
 Download a [zip archive of the cucumber eclipse update site](https://github.com/cucumber/cucumber-eclipse/releases)
-
-## Eclipse marketplace
-
-By drag and drop of this button in your running Eclipse workspace.
-
- [![Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3759385 "Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client")
-
-Directly from the Eclipse marketplace, search [`Cucumber Eclipse Plugin`](https://marketplace.eclipse.org/content/cucumber-eclipse-plugin).
 
 ## Snapshots
 
