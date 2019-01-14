@@ -1,5 +1,8 @@
 ![cucumber eclipse](/assets/cucumber-black-128.png) Eclipse plugin update site
 
+**NOT YET AVAILABLE**
+_This new update site will automatically provide the last stable version for the next release version_
+
 This update site is automatically updated with the latest release of the Cucumber Eclipse plugin.
 
 They are 3 ways to install the Cucumber eclipse plugin
