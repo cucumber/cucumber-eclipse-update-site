@@ -23,7 +23,7 @@ They are 3 ways to install the Cucumber eclipse plugin
 ## From this update site
 
  * From Eclipse, go to menu `Help` > `Install New software`
- * Work with: `https://cucumber.github.io/cucumber-eclipse-update-site`
+ * Work with: `https://cucumber.github.io/cucumber-eclipse/update-site`
  * Select the check-box for `Cucumber Eclipse Plugin`
  * Select Next as per the instruction shown during installation.
  * Restart your Eclipse after completion of instruction.
